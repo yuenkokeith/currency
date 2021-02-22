@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\frontend",
+    "\\frontend\\views",
+    "\\frontend\\views\\layouts",
+    "\\frontend\\web",
+    "\\frontend\\web\\js\\conversion",
+    "\\frontend\\web\\js\\history",
+    "\\frontend\\web\\js\\mastertable",
+    "\\frontend\\web\\js\\mastertable\\company"
+  ],
+  "SelectedNode": "\\frontend\\views\\layouts\\main.php",
+  "PreviewInSolutionExplorer": false
+}
